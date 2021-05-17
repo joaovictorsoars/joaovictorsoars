@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👨‍🚀 João Victor
 
-<!--
-**joaovictorsoars/joaovictorsoars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Trainee** at [@logap](https://github.com/logap)
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/linkedin-fe6d95?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-victor-soares)
+[![Twitter](https://img.shields.io/badge/twitter-fe6d95?style=for-the-badge&logo=twitter)](https://twitter.com/@joaovictorsoars)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![João Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsoars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+- 💬 Ask me about technologies and games
+- 📫 How to reach me: joao.victor.ssv@outlook.com
+- ⚡ Interested in: React.js, Next.js, Angular & Design Patterns
+- 🎵 A fact about me: I love Frank Sinatra's songs
+
+> "Simplicity is about subtracting the obvious and adding the meaningful." - 
+> Jon Maeda
